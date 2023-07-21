@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="flag">
+			<path d="m0 135c0-35.35 28.65-64 64-64h384c35.35 0 64 28.65 64 64v242c0 35.35-28.65 64-64 64h-384c-35.35 0-64-28.65-64-64z"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#flag)">
+		<path fill="#ff0006" d="m0 71h512v62h-512z"/>
+		<path fill="#ff7400" d="m0 133h512v62h-512z"/>
+		<path fill="#fad31a" d="m0 195h512v62h-512z"/>
+		<path fill="#0a903c" d="m0 257h512v62h-512z"/>
+		<path fill="#3257a1" d="m0 319h512v62h-512z"/>
+		<path fill="#890083" d="m0 379h512v62h-512z"/>
+        <path fill="#2d343b" d="m103 71l150 185-151 185h33l150-185-150-185"/>
+		<path fill="#c2694e" d="m71 71l151 185-151 185h33l150-185-150-185"/>
+		<path fill="#5bcffa" d="m40 71l150 185-150 185h33l150-185-150-185"/>
+		<path fill="#f5abb9" d="m9 71l150 185-150 185h32l150-185-150-185"/>
+		<path fill="#efefef" d="m-23 71l151 185-151 185h33l150-185-150-185"/>
+		<path fill="#fad220" d="m-21 441l150-185-150-185"/>
+		<path fill="none" stroke="#880082" stroke-width="8" d="m53.5 298c-23.5 0-42.5-19-42.5-42.5 0-23.5 19-42.5 42.5-42.5 23.5 0 42.5 19 42.5 42.5 0 23.5-19 42.5-42.5 42.5z"/>
+	</g>
+</svg>
+
