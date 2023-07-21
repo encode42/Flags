@@ -3,6 +3,9 @@ A collection of pride flags in the style of Twemoji.
 
 Colors are taken from existing Twemoji emotes, and interpolated where a new color is required.
 
+### 💡 Requests
+Feel free to [create an issue](https://github.com/Encode42/Flags/issues) if you'd like a new flag made!
+
 ### 📁 Structure
 Each flag has its own dedicated folder. These contain:
 - `<flag name>.psd`: The Photoshop document used to create the flags.
