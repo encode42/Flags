@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="flag">
+			<path d="m0 135c0-35.35 28.65-64 64-64h384c35.35 0 64 28.65 64 64v242c0 35.35-28.65 64-64 64h-384c-35.35 0-64-28.65-64-64z"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#flag)">
+		<path fill="#fcfb65" d="m0 71h512v94h-512z"/>
+		<path fill="#efefef" d="m0 163h512v94h-512z"/>
+		<path fill="#9266cc" d="m0 254h512v94h-512z"/>
+		<path fill="#2d343b" d="m0 347h512v94h-512z"/>
+	</g>
+</svg>
